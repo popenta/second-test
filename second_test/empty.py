@@ -1,2 +1,2 @@
 def print_empty():
-    print("is empty")
+    print("this is empty")
